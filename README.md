@@ -6,7 +6,7 @@ Computes torque at gear 4 from power rig test data using the formula:
 Torque_4 = (Power_watts × Gear4_Teeth × Wheel2_Radius_m) / (Gear3_Teeth × Velocity_mps)
 ```
 
-![image alt]([https://github.com/VT-HPS/2025-Power-Output-/blob/7793e05e1850e8cdb78ebdf6d580788291aa8441/Equations%20for%20RAY!!!!.pdf](https://github.com/VT-HPS/2025-Power-Output-/blob/ac35914c7f60d73127b45169a020bb8ecb84ef2d/Equations.png))
+<img align="center" width="30%" alt="image" src="[https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139](https://github.com/VT-HPS/2025-Power-Output-/blob/7a3022594b2de718439827c11df1a7879c40206e/Equations.png)">
 
 Input data is assumed to have:
 - **Speed** in mph (automatically converted to m/s)
