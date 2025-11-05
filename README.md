@@ -6,7 +6,7 @@ Computes torque at gear 4 from power rig test data using the formula:
 Torque_4 = (Power_watts × Gear4_Teeth × Wheel2_Radius_m) / (Gear3_Teeth × Velocity_mps)
 ```
 
-![image alt](https://github.com/VT-HPS/2025-Power-Output-/blob/7793e05e1850e8cdb78ebdf6d580788291aa8441/Equations%20for%20RAY!!!!.pdf)
+![image alt]([https://github.com/VT-HPS/2025-Power-Output-/blob/7793e05e1850e8cdb78ebdf6d580788291aa8441/Equations%20for%20RAY!!!!.pdf](https://github.com/VT-HPS/2025-Power-Output-/blob/ac35914c7f60d73127b45169a020bb8ecb84ef2d/Equations.png))
 
 Input data is assumed to have:
 - **Speed** in mph (automatically converted to m/s)
